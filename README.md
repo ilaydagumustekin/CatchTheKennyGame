@@ -49,7 +49,9 @@ This project was built to improve:
 ## Screenshots
 
 <p align="center">
-  <img src="assets/kenny-game-preview.png" width="280" />
+  <img src="Ekran%20Resmi%202026-07-09%2018.25.42.png" width="300" alt="Gameplay Screen">
+  &nbsp;&nbsp;
+  <img src="Ekran%20Resmi%202026-07-09%2018.26.12.png" width="300" alt="Game Over Screen">
 </p>
 
 ## Installation
